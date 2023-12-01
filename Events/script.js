@@ -50,7 +50,7 @@
 
 // itemInput.addEventListener('keypress', onKeyPress);
 // itemInput.addEventListener('keyup', onKeyUp);
-itemInput.addEventListener('keydown', onKeyDown);
+// itemInput.addEventListener('keydown', onKeyDown);
 
 
 // video 86
